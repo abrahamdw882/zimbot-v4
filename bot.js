@@ -38,7 +38,7 @@ global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
 global.owner = ['+233576635791''+918602306506''] //owner number ++447441437150
-global.wame = ['+2335766357'] 
+global.wame = ['+233576635791'] 
 global.pemilik = ['+233576635791'] //owner number ++447441437150
 global.premium = ['+233576635791'] //premium number ++447441437150
 global.pengguna = 'Abraham' //username
